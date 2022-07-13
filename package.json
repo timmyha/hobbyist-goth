@@ -1,0 +1,32 @@
+{
+  "name": "hobbyist-goth",
+  "displayName": "hobbyist-goth",
+  "description": "a dark yet soft theme",
+  "version": "0.0.1",
+  "publisher": "timhansher",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"goth",
+		"dark",
+		"night",
+		"pink",
+		"moody",
+		"dracula",
+		"clean"
+	],
+  "icon": "icon.ico",
+  "contributes": {
+    "themes": [
+      {
+        "label": "hobbyist goth",
+        "uiTheme": "vs-dark",
+        "path": "themes/hobbyist-goth.json"
+      }
+    ]
+  }
+}
