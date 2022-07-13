@@ -3,13 +3,17 @@
   "displayName": "hobbyist-goth",
   "description": "a dark yet soft theme",
   "version": "0.0.1",
-  "publisher": "timhansher",
+  "publisher": "timmyha",
   "engines": {
     "vscode": "^1.14.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+		"url": "https://github.com/timmyha/hobbyist-goth",
+		"type": "git"
+	},
   "keywords": [
 		"goth",
 		"dark",
